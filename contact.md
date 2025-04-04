@@ -3,7 +3,7 @@ layout: default
 title: Contact Us
 ---
 
-{% include nav.html %}
+{% raw %}{% include nav.html %}{% endraw %}
 
 # Contact Us
 
