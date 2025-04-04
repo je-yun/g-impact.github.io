@@ -2,7 +2,7 @@
 layout: default
 title: Welcome to My Organization
 ---
-
+{% raw %}{% include nav.html %}{% endraw %}
 # 👋 Hello from MyOrg!
 
 Welcome to our official site.  
