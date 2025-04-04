@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Welcome to My Organization
+title: Welcome to the G-Impact Project
 ---
-{% raw %}{% include nav.html %}{% endraw %}
+{% include nav.html %}
 # 👋 Hello from MyOrg!
 
 Welcome to our official site.  
