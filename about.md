@@ -1,4 +1,5 @@
 ---
+{% raw %}{% include nav.html %}{% endraw %}
 layout: default
 title: About Us
 ---
