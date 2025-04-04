@@ -1,3 +1,7 @@
 title: My Organization
 description: Official website for My Organization
 theme: jekyll-theme-cayman
+
+# Enable custom includes
+
+includes_dir: _includes
