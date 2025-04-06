@@ -10,7 +10,7 @@ The ***Global Basic Research Laboratory on the Near-term Earth System Changes an
 ### Professors
 
 #### ![Prof Image](images/prof2.jpg)  
-**Dr. Omar Lee**  
+**Prof. **  
 *Professor of *  
 Institute Name  
 [Read more](people/prof_name.md)
@@ -20,7 +20,7 @@ Institute Name
 ### Postdoctoral Researchers
 
 #### ![Postdoc Image](images/postdoc1.jpg)  
-**Dr. Lucia Kim**  
+**Dr. **  
 *Postdoctoral Fellow – Topic/Research*  
 Institute Name
 [Read more](people/postdoc-name.md)
