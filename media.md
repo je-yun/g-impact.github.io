@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Media
 ---
 
-{% include nav.html %}
 
 # Media
 

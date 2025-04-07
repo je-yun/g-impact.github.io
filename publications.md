@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: Publications
 ---
 
-{% include nav.html %}
 
 # Publications
 

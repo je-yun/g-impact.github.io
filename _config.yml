@@ -1,6 +1,7 @@
 title: G-Impact
 description: There are undeniable links between the climate, ecosystem, human health and the economy. As we face rising temperatures and shifts in precipitation patterns around the world, it is more urgent than ever to understand the underlying complex relationships between these systems. Our team makes use of data, simulations and innovative statistical techniques to improve how we anticipate and respond to future challenges in a rapidly changing world. 
-theme: jekyll-theme-cayman
+theme: cayman
+# remote_theme: pages-themes/cayman@v0.2.0
 baseurl: "/g-impact.github.io"
 
 # Enable custom includes
