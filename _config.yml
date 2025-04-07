@@ -7,3 +7,13 @@ baseurl: "/g-impact.github.io"
 # Enable custom includes
 
 includes_dir: _includes
+
+plugins: 
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-assets
