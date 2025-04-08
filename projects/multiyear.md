@@ -16,7 +16,7 @@ We explore...
 
 This study...
 
-**Lead Researchers:** Dr. Alexia Karwat, Dr. June-Yi Lee, and Dr. Christian Franzke
+**Lead Researchers:** Alexia Karwat, June-Yi Lee, and Christian Franzke
 
 **Publications:** 
 
@@ -30,7 +30,7 @@ This study...
 
 This study... 
 
-**Lead Researchers:** Dr. Alexia Karwat and Dr. June-Yi Lee
+**Lead Researchers:** Alexia Karwat and June-Yi Lee
 
 **Publications:** 
 
@@ -44,7 +44,7 @@ This study...
 
 This study... 
 
-**Lead Researchers:** Dr. Jung-Eun Yun and Dr. June-Yi-Lee
+**Lead Researchers:** Jung-Eun Yun and June-Yi-Lee
 
 **Publications:** 
 
@@ -56,6 +56,6 @@ This study...
 
 This study... 
 
-**Lead Researchers:** Abhinav R. Subrahmanian and Dr. June-Yi Lee
+**Lead Researchers:** Abhinav R. Subrahmanian and June-Yi Lee
 
 **Publications:** 
