@@ -18,6 +18,8 @@ This study...
 
 **Lead Researchers:** 
 
+**Publications:** 
+
 ---
 
 ## Changes in Ocean Circulation
@@ -26,7 +28,9 @@ This study...
 
 This study... 
 
-**Lead Rsearchers:**
+**Lead Researchers:**
+
+**Publications:** 
 
 ---
 
@@ -38,6 +42,8 @@ This study...
 
 **Lead Researchers:**
 
+**Publications:** 
+
 ---
 
 ## Estimating the Social Cost of Carbon in Europe Under the Net-Zero Emission Scenario
@@ -48,6 +54,8 @@ This study...
 
 **Lead Researchers:**
 
+**Publications:** 
+
 ---
 
 ## Future Changes in Single and Clustered Cyclones Associated with Wind and Precipiation Extremes in the South Pacific
@@ -57,3 +65,5 @@ This study...
 This study... 
 
 **Lead Researchers:**
+
+**Publications:** 

@@ -18,6 +18,8 @@ This study...
 
 **Lead Researchers:** 
 
+**Publications:** 
+
 ---
 
 ## East Asia Multi-Country Mortality Study
@@ -27,6 +29,8 @@ This study...
 This study... 
 
 **Lead Researchers:**
+
+**Publications:** 
 
 ---
 
@@ -38,6 +42,8 @@ This study...
 
 **Lead Researchers:**
 
+**Publications:** 
+
 ---
 
 ## Multi-Country Multi-City (MCC) Collaborative Study
@@ -48,6 +54,8 @@ This study...
 
 **Lead Researchers:**
 
+**Publications:** 
+
 ---
 
 ## Social Cost of Carbon for Mortality Considering Temperature and Moisture Effects
@@ -57,4 +65,6 @@ This study...
 This study... 
 
 **Lead Researchers:**
+
+**Publications:** 
 

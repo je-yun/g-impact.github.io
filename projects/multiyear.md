@@ -18,6 +18,8 @@ This study...
 
 **Lead Researchers:** Dr. Alexia Karwat, Dr. June-Yi Lee, and Dr. Christian Franzke
 
+**Publications:** 
+
 <!-- [Read more](marine-heatwaves.md) -->
 
 ---
@@ -29,6 +31,8 @@ This study...
 This study... 
 
 **Lead Researchers:** Dr. Alexia Karwat and Dr. June-Yi Lee
+
+**Publications:** 
 
 <!-- [Read more](terrestrial-heatwaves.md) -->
 
@@ -42,6 +46,8 @@ This study...
 
 **Lead Researchers:** Dr. Jung-Eun Yun and Dr. June-Yi-Lee
 
+**Publications:** 
+
 ---
 
 ## Predictability of Atlantic Climate Variability
@@ -51,3 +57,5 @@ This study...
 This study... 
 
 **Lead Researchers:** Abhinav R. Subrahmanian and Dr. June-Yi Lee
+
+**Publications:** 
