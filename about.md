@@ -9,7 +9,7 @@ The ***Global Basic Research Laboratory on the Near-term Earth System Changes an
 
 ### Professors
 
-**Christian Franzke
+**Christian Franzke**
 <img src="images/Christian-Franzke.jpg" alt="***" width="200" /> 
 
 IBS Center for Climate Physics, Institute for Basic Science and Department of Integrated Climate System Science, Pusan National University
