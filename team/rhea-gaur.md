@@ -18,7 +18,7 @@ permalink: /team/rhea-gaur/
 
 ## Research Interests
 
-My research focuses on extreme events like cyclones, cyclones, floods, and more. I am interested in using statistical methods to understand the change in frequency and intensity of extreme events in a warming world. Furthermore, I want to explore the interconnected nature between these disasters and the impact they could have on life on Earth. 
+My research focuses on extreme events like cyclones, droughts, floods, and more. I am interested in using statistical methods to understand the change in frequency and intensity of extreme events in a warming world. Furthermore, I want to explore the interconnected nature between these disasters and the impacts they could have on life on Earth. 
 
 ## Selected Publications
 
