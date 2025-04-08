@@ -22,4 +22,4 @@ My research focuses on extreme events, their impact on society such as economic 
 
 ## Selected Publications
 
-- Verjans, V., <b>C. Franzke<\b>, S.-S. Lee, I.-W. Kim, S. Tilmes, D. Lawrence, F. Vitt, and F. Li, 2025: Quantifying CO2 forcing effects on lightning, wildfires, and climate interactions. Science Advances, 11, adt5088.
+- Verjans, V., <b>C. Franzke</b>, S.-S. Lee, I.-W. Kim, S. Tilmes, D. Lawrence, F. Vitt, and F. Li, 2025: Quantifying CO2 forcing effects on lightning, wildfires, and climate interactions. Science Advances, 11, adt5088.
