@@ -15,7 +15,7 @@ The ***Global Basic Research Laboratory on the Near-term Earth System Changes an
 
 *Professor* <br>
 IBS Center for Climate Physics, Institute for Basic Science and Department of Integrated Climate System Science, Pusan National University
-<a href="{{ site.baseurl }}/team/christian.franzke/" style="font-size: 0.75rem;">Read more</a>
+<a href="{{ site.baseurl }}/team/christian-franzke/" style="font-size: 0.75rem;">Read more</a>
 
 ---
 
