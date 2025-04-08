@@ -9,21 +9,21 @@ The ***Global Basic Research Laboratory on the Near-term Earth System Changes an
 
 ### Professors
 
-<!--- #### ![Prof Image](images/prof2.jpg)  
+<img src="images/***" alt="***" width="200" /> 
 **Prof. **  
 *Professor of *  
 Institute Name  
-[Read more](people/prof_name.md) --->
+<a href="{{ site.baseurl }}/team/***/" style="font-size: 0.75rem;">Read more</a>
 
 ---
 
 ### Postdoctoral Researchers
 
-<!--- #### ![Postdoc Image](images/postdoc1.jpg)  
+<img src="images/***" alt="***" width="200" />
 **Dr. **  
 *Postdoctoral Fellow – Topic/Research*  
 Institute Name
-[Read more](people/postdoc-name.md) --->
+<a href="{{ site.baseurl }}/team/***/" style="font-size: 0.75rem;">Read more</a>
 
 ---
 
@@ -36,4 +36,12 @@ Institute Name
 *PhD Candidate – Climate Physics*  
 IBS Center for Climate Physics and Pusan National University
 <a href="{{ site.baseurl }}/team/rhea-gaur/" style="font-size: 0.75rem;">Read more</a>
+
+### Administrators
+
+<img src="images/***" alt="***" width="200" />
+**Name **  
+*Position*  
+Institute Name
+<a href="{{ site.baseurl }}/team/***/" style="font-size: 0.75rem;">Read more</a>
 
