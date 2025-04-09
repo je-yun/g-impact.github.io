@@ -22,6 +22,6 @@ My current research focuses on understanding the seasonal to multi-year predicta
 
 ## Selected Publications
 
-- <b>Karwat, A.</b>, C. L. E. Franzke, J. G. Pinto, S.-S. Lee, and R. Blender, 2024: Northern Hemisphere Extratropical Cyclone Clustering in ERA5 Reanalysis and the CESM2 Large Ensemble. J. Clim., 37, pp. 1347-1365, https://doi.org/10.1175/JCLI-D-23-0160.1.
+- <b>Karwat, A.</b>, C. L. E. Franzke, J. G. Pinto, S.-S. Lee, and R. Blender, 2024: Northern Hemisphere Extratropical Cyclone Clustering in ERA5 Reanalysis and the CESM2 Large Ensemble. J. Clim., 37, pp. 1347-1365, <a href="https://doi.org/10.1175/JCLI-D-23-0160.1">https://doi.org/10.1175/JCLI-D-23-0160.1</a>.
 
-- <b>Karwat, A.</b> and C. L. E. Franzke, 2021: Future Projections of Heat Mortality Risk for Major European Cities. Weather, Climate, and Society (WCAS), 13, pp. 913-931, https://doi.org/10.1175/WCAS-D-20-0142.1.
+- <b>Karwat, A.</b> and C. L. E. Franzke, 2021: Future Projections of Heat Mortality Risk for Major European Cities. Weather, Climate, and Society (WCAS), 13, pp. 913-931, <a href="https://doi.org/10.1175/WCAS-D-20-0142.1">https://doi.org/10.1175/WCAS-D-20-0142.1</a>.
