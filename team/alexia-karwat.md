@@ -6,8 +6,8 @@ permalink: /team/alexia-karwat/
 
 # Alexia Karwat
 
-<!--- <img src="/images/alexiakarwat.jpg" alt="Alexia Karwat" width="200" /> --->
-<img src="{{ site.baseurl }}/images/alexiakarwat.jpg" alt="Alexia Karwat" width="200" />
+<!--- <img src="/images/alexiakarwat.jpeg" alt="Alexia Karwat" width="200" /> --->
+<img src="{{ site.baseurl }}/images/alexiakarwat.jpeg" alt="Alexia Karwat" width="200" />
 
 
 
