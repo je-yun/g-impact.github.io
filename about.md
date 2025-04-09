@@ -21,11 +21,11 @@ IBS Center for Climate Physics, Institute for Basic Science and Department of In
 
 ### Postdoctoral Researchers
 
-<!--- <img src="images/***" alt="***" width="200" />
-**Dr. **  
-*Postdoctoral Fellow – Topic/Research*  
-Institute Name
-<a href="{{ site.baseurl }}/team/***/" style="font-size: 0.75rem;">Read more</a> --->
+<img src="images/alexiakarwat.jpeg" alt="***" width="200" />
+
+*Postdoctoral Fellow*  
+Research Center for Climate Sciences (RCCS), Pusan National University (PNU)
+<a href="{{ site.baseurl }}/team/alexia-karwat/" style="font-size: 0.75rem;">Read more</a>
 
 ---
 
