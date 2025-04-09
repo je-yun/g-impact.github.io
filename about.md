@@ -21,6 +21,8 @@ IBS Center for Climate Physics, Institute for Basic Science and Department of In
 
 ### Postdoctoral Researchers
 
+**Alexia Karwat**  
+
 <img src="images/alexiakarwat.jpeg" alt="***" width="200" />
 
 *Postdoctoral Fellow*  
