@@ -48,7 +48,7 @@ IBS Center for Climate Physics and Pusan National University
 
 *Master's Student – Climate Physics*  
 IBS Center for Climate Physics and Pusan National University
-<a href="{{ site.baseurl }}/team/Arya-vazhaparambilSasi/" style="font-size: 0.75rem;">Read more</a>
+<a href="{{ site.baseurl }}/team/arya-vazhaparambilsasi/" style="font-size: 0.75rem;">Read more</a>
 
 ---
 

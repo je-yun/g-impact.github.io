@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Arya Vazhaparambil Sasi
-permalink: /team/Arya-vazhaparambilSasi/
+permalink: /team/arya-vazhaparambilsasi/
 ---
 
 # Arya Vazhaparambil Sasi
 
 
-<img src="{{ site.baseurl }}/images/AryaVazhaparambilSasi.jpg" alt="Arya Vazhaparambil Sasi" width="200" />
+<img src="{{ site.baseurl }}/images/AryaVazhaparambilSasi.JPG" alt="Arya Vazhaparambil Sasi" width="200" />
 
 
 
