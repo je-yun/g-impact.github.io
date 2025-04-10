@@ -41,6 +41,17 @@ Research Center for Climate Sciences (RCCS), Pusan National University (PNU)
 IBS Center for Climate Physics and Pusan National University
 <a href="{{ site.baseurl }}/team/rhea-gaur/" style="font-size: 0.75rem;">Read more</a>
 
+---
+**Arya Vazhaparambil Sasi**  
+
+<img src="images/AryaVazhaparambilSasi.jpg" alt="Arya Vazhaparambil Sasi" width="200" />
+
+*Master's Student – Climate Physics*  
+IBS Center for Climate Physics and Pusan National University
+<a href="{{ site.baseurl }}/team/arya-vazhaparambilsasi/" style="font-size: 0.75rem;">Read more</a>
+
+---
+
 ### Administrators
 
 <!--- <img src="images/***" alt="***" width="200" />
