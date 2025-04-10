@@ -16,6 +16,6 @@ We explore...
 
 This study...
 
-**Lead Researchers:** Arya S. Vazhaparambil and June-Yi Lee
+**Lead Researchers:** Arya Vazhaparambil Sasi and June-Yi Lee
 
 **Publications:** 
