@@ -44,7 +44,7 @@ IBS Center for Climate Physics and Pusan National University
 ---
 **Arya Vazhaparambil Sasi**  
 
-<img src="images/AryaVazhaparambilSasi.JPG" alt="Arya Vazhaparambil Sasi" width="200" />
+<img src="images/AryaVazhaparambilSasi.jpeg" alt="Arya Vazhaparambil Sasi" width="200" />
 
 *Master's Student – Climate Physics*  
 IBS Center for Climate Physics and Pusan National University
