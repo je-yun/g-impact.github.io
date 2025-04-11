@@ -17,7 +17,7 @@ permalink: /team/arya-vazhaparambilsasi/
 ---
 
 ## Research Interests
-My research interests include climate change, AI modeling, climate extremes, subseasonal-to-seasonal prediction, and monsoon variability. I'm currently focused on studying temperature extremes, particularly heat waves, and their predictability associated with intra-seasonal oscillations using AI weather models. I'm also interested in exploring the impacts of climate extremes on people and society.
+My research interests include climate change, AI modeling, climate extremes, and subseasonal-to-seasonal prediction. I'm currently focused on studying temperature extremes, particularly heat waves, and their predictability associated with intra-seasonal oscillations using AI weather models. I'm also interested in exploring the impacts of climate extremes on people and society.
 
 
 ## Selected Publications
