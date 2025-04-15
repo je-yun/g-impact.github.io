@@ -54,9 +54,11 @@ IBS Center for Climate Physics and Pusan National University
 
 ### Administrators
 
-<!--- <img src="images/***" alt="***" width="200" />
-**Name **  
-*Position*  
-Institute Name
-<a href="{{ site.baseurl }}/team/***/" style="font-size: 0.75rem;">Read more</a> --->
+**Woojin Jung**
+
+<img src="images/Woojin.jpg" alt="Woojin Jung" width="200" />
+
+*Administrative Assistant*  
+IBS Center for Climate Physics
+<a href="{{ site.baseurl }}/team/woojin-jung/" style="font-size: 0.75rem;">Read more</a>
 
