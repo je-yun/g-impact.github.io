@@ -4,7 +4,7 @@ title: Jiwoo Park
 permalink: /team/jiwoo-park/
 ---
 
-# Rhea Gaur
+# Jiwoo Park
 
 <!--- <img src="/images/JiwooPark.jpg" alt="Jiwoo Park" width="200" /> --->
 <img src="{{ site.baseurl }}/images/JiwooPark.jpg" alt="Jiwoo Park" width="200" />
