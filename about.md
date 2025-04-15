@@ -52,6 +52,16 @@ IBS Center for Climate Physics and Pusan National University
 
 ---
 
+**Jiwoo Park**  
+
+<img src="images/JiwooPark.jpg" alt="Jiwoo Park" width="200" />
+
+*Master's Student*  
+Pusan National University
+<a href="{{ site.baseurl }}/team/jiwoo-park/" style="font-size: 0.75rem;">Read more</a>
+
+---
+
 ### Administrators
 
 **Woojin Jung**
