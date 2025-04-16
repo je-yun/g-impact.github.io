@@ -9,7 +9,7 @@ permalink: /team/beomhee-jo/
 
 
 
-**Title:** Ph.D. Candidate in Climate Physics  
+**Title:** Ph.D. Student  
 **Institution:** IBS Center for Climate Physics and Pusan National University  
 
 ---
