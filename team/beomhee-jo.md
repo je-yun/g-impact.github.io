@@ -7,7 +7,7 @@ permalink: /team/beomhee-jo/
 # Beomhee Jo
 
 <!--- <img src="/images/rheagaur.png" alt="Rhea Gaur" width="200" /> --->
-<img src="{{ site.baseurl }}/images/BeomheeJo.jpg" alt="Christian Franzker" width="200" />
+<img src="{{ site.baseurl }}/images/BeomheeJo.jpg" alt="Beomhee Jo" width="200" />
 
 
 **Title:** Ph.D. Student  
