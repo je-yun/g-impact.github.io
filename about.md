@@ -67,7 +67,7 @@ Pusan National University
 <img src="images/BeomheeJo.jpg" alt="Beomhee Jo" width="200" />
 
 *PhD Student*  
-Pusan National University
+IBS Center for Climate Physics and Pusan National University
 <a href="{{ site.baseurl }}/team/beomhee-jo/" style="font-size: 0.75rem;">Read more</a>
 
 ---
