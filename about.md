@@ -62,6 +62,16 @@ Pusan National University
 
 ---
 
+**Beomhee Jo**  
+
+<img src="images/BeomheeJo.jpg" alt="Beomhee Jo" width="200" />
+
+*PhD Student*  
+Pusan National University
+<a href="{{ site.baseurl }}/team/beomhee-jo/" style="font-size: 0.75rem;">Read more</a>
+
+---
+
 ### Administrators
 
 **Woojin Jung**
