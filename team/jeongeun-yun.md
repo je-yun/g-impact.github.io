@@ -4,7 +4,7 @@ title: Jeongeun Yun
 permalink: /team/jeongeun-yun/
 ---
 
-# Alexia Karwat
+# Jeongeun Yun
 
 <!--- <img src="/images/jeongeun-yun.jpeg" alt="Jeongeun Yun" width="200" /> --->
 <img src="{{ site.baseurl }}/images/jeongeun-yun.jpeg" alt="Jeongeun Yun" width="200" />
